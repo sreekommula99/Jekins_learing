@@ -1,3 +1,3 @@
 def(){
-sh echo 'Hi this is Sree, Learning Jenkins. This is a shared libraries!!'
+sh 'echo Hi this is Sree, Learning Jenkins. This is a shared libraries!!'
 }
